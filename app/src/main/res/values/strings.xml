@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Book App</string>
+    <string name="back">Back</string>
+    <string name="no_resource_found">No resource found</string>
+    <string name="empty">empty</string>
+    <string name="explore_thousands_of_books">Explore thousands of books</string>
+    <string name="search_for_books">Search for books...</string>
+    <string name="famous_books">Famous Books</string>
+    <string name="search">Search</string>
+    <string name="close">Close</string>
+    <string name="description">Description</string>
+</resources>
